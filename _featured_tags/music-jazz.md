@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Essay
-slug: essay
-category: essay
+title: Jazz
+slug: jazz
+category: music
 menu: false
 order: 1
 header-img: "/img/alpaca.jpg"

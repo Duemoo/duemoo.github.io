@@ -3,8 +3,8 @@ layout: list
 title: Essay
 slug: essay
 menu: true
-submenu: false
-order: 4
+submenu: true
+order: 3
 description: >
-  평소 생각과 쓰고싶은 글을 씁니다.
+  다양한 생각들을 자유롭게 적습니다.
 ---
