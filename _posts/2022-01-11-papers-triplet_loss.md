@@ -2,8 +2,9 @@
 layout: post
 title:  "Deep Metric Learning Using Triplet Network"
 subtitle:   "부제"
-categories: papers
-tags: AI
+categories: AI
+tags: papers
+comments: true
 
 ---
 
