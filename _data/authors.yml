@@ -17,11 +17,7 @@ isme2n:
     srcset:
       1x:            /assets/img/me.jpg
       2x:            /assets/img/me.jpg
-<<<<<<< HEAD
 
-=======
-      
->>>>>>> bc3efbd623ea198546708a037a2a39c3fd768b9c
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
