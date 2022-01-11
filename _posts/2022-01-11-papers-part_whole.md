@@ -4,6 +4,7 @@ title:  "How to Represent Part-Whole Hierarchies In a Neural Network(2021)"
 subtitle:   "부제"
 categories: AI
 tags: papers
+comments: true
 
 ---
 

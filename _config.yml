@@ -127,3 +127,26 @@ compress_html:
 
 sass:
   style:             compressed
+
+# -----------------------------------------------------------------------------
+#  Comment
+# -----------------------------------------------------------------------------
+
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : duemoo.github.io
+
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true

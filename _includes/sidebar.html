@@ -2,31 +2,47 @@
   <div id="_sidebar" class="sidebar">
     <div class="sidebar-bg" style="background-color:{{ color }};background-image:url({{ image }})"></div>
     <header class="sidebar-sticky" role="banner">
-      <br/>
-      <div class="sidebar-about">
-        <h1><a id="_title" href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-        {{ site.tagline | truncatewords:50 | markdownify }}
-      </div>
-
-      <br/>
-      <br/>
-      <nav class="sidebar-nav heading" role="navigation">
-        {% include nav.html %}
-      </nav>
-    <br/>
-    <br/>
-      <div class="sidebar-box">
-        {% if author.picture %}
-          {% include srcset-img.html class="me" img=author.picture alt=author.name %}
-        {% endif %}
-      </div>
-      {{ site.description | truncatewords:50 | markdownify }}
-      {% assign author = site.data.authors.first[1] %}
-      {% if author.social %}
-        <div class="sidebar-social">
-          {% include social.html social=author.social %}
+        <br />
+        <div class="sidebar-about">
+            <h1><a id="_title" href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+            {{ site.tagline | truncatewords:50 | markdownify }}
         </div>
-      {% endif %}
+
+        <br />
+        <br />
+        <nav class="sidebar-nav heading" role="navigation">
+            {% include nav.html %}
+        </nav>
+        <br />
+        <br />
+        <div class="sidebar-box">
+            {% if author.picture %}
+            {% include srcset-img.html class="me" img=author.picture alt=author.name %}
+            {% endif %}
+        </div>
+
+        {{ site.description | truncatewords:50 | markdownify }}
+        {% assign author = site.data.authors.first[1] %}
+        {% if author.social %}
+        <div class="sidebar-social">
+            {% include social.html social=author.social %}
+        </div>
+        {% endif %}
+
+        <!-- visitor count view -->
+
+        <a href="https://hits.seeyoufarm.com">
+            <style>
+                .hits {
+                    width: auto;
+                    height: auto;
+                    max-width: 99px;
+                    max-height: 20px;
+                }
+            </style>
+            <img class="hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fduemoo.github.io&count_bg=%23ACACAC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+        </a>
+
     </header>
   </div>
 </div>
