@@ -132,10 +132,8 @@ sass:
 #  Comment
 # -----------------------------------------------------------------------------
 
-comments:
-  provider:        "disqus"
-  disqus:
-    shortname:    alpaca-studying-ai
+disqus:
+  shortname:    alpaca-studying-ai
 
 
 # Defaults
