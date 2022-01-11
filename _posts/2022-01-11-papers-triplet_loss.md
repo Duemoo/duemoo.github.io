@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Deep Metric Learning Using Triplet Network"
+title:  "Deep Metric Learning Using Triplet Network(2014)"
 subtitle:   "부제"
 categories: AI
 tags: papers
@@ -20,4 +20,4 @@ Metric learning을 하기 위해서는, 데이터에서 얻은 representation의
 
 ![Image Alt Triplet Network를 통해 학습된 MNIST dataset의 embedding](/assets/img/triplet_mnist.PNG)
 
-논문 주소 및 이미지 출처: [https://arxiv.org/abs/1412.6622]({{ site.baseurl }}https://arxiv.org/abs/1412.6622)
+논문 링크 및 이미지 출처: [https://arxiv.org/abs/1412.6622]({{ site.baseurl }}https://arxiv.org/abs/1412.6622)
