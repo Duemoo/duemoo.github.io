@@ -135,7 +135,7 @@ sass:
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : duemoo.github.io
+    shortname            : alpaca-studying-ai
 
 
 # Defaults
