@@ -4,6 +4,7 @@ title:  "Deep Metric Learning Using Triplet Network(2014)"
 subtitle:   "부제"
 categories: AI
 tags: papers
+comments: true
 
 ---
 

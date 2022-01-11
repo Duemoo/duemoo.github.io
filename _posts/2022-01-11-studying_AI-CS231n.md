@@ -4,6 +4,7 @@ title:  "CS231n 수강 후기"
 subtitle:   "부제"
 categories: AI
 tags: studying_AI
+comments: true
 
 ---
 

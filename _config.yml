@@ -133,9 +133,9 @@ sass:
 # -----------------------------------------------------------------------------
 
 comments:
-  provider               : "disqus"
+  provider:        "disqus"
   disqus:
-    shortname            : alpaca-studying-ai
+    shortname:    alpaca-studying-ai
 
 
 # Defaults
@@ -144,9 +144,9 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout:           single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time:      true
+      comments:     true
+      share:           true
+      related:         true
