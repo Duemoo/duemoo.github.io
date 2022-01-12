@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-필자는 작년 여름 Stanford의 유명한 강의인 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)를 독학하며, (자유 주제로 진행되는 final project를 제외한) 모든 assignment를 풀어보았다. 이 글에서는, 그 과정에서 필자가 배운 것과 느낀 점들을 후기로 남겨보려 한다. 이 강의를 수강할지 고민하는 분들께 조금이나마 도움이 될 수 있기를 바란다.
+필자는 작년 여름 Stanford의 유명한 강의인 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)을 독학하며, (자유 주제로 진행되는 final project를 제외한) 모든 assignment를 풀어보았다. 이 글에서는, 그 과정에서 필자가 배운 것과 느낀 점들을 후기로 남겨보려 한다. 이 글이 CS231n을 수강할지 고민하는 분들께 조금이나마 도움이 될 수 있기를 바란다.
 
 
 
