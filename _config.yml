@@ -47,7 +47,7 @@ google_fonts:        Lato
 google_analytics:    UA-92346434-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
-disqus_shortname:    Duemoo
+disqus_shortname:    alpaca-studying-AI
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2021. by Duemoo'
@@ -127,24 +127,3 @@ compress_html:
 
 sass:
   style:             compressed
-
-# -----------------------------------------------------------------------------
-#  Comment
-# -----------------------------------------------------------------------------
-
-disqus:
-  shortname:    alpaca-studying-ai
-
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout:           single
-      author_profile: true
-      read_time:      true
-      comments:     true
-      share:           true
-      related:         true
