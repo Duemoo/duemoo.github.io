@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Composition
-slug: composition
+title: My compositions
+slug: my_compositions
 category: music
 menu: false
 order: 3
