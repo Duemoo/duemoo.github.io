@@ -1,9 +1,9 @@
 ---
 layout: tag-blog
-title: Studying AI
-slug: studying_AI
+title: PRML
+slug: PRML
 category: AI
 menu: false
-order: 3
+order: 2
 header-img: "/img/alpaca.jpg"
 ---
