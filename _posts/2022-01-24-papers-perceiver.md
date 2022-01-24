@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-DeepMind에서 2021년에 발표한 논문으로, 단일 구조로 다양한 modality의 데이터를 학습하고 다룰 수 있는 transformer 기반 모델인 Perceiver를 소개하였다. 기존의 AI의 각 분야에서 좋은 성과를 거둔 CNN과 transformer 기반 아키텍쳐가 다양한 modality를 학습하기 어려웠던 이유로는 크게 두 가지를 들 수 있다. 먼저, CNN의 경우 convolution이라는 연산 자체가 이미지의 형태로 들어오는 input의 spatial relationships를 가정하고 있기 때문에, 이러한 관계가 성립하지 않는 다른 형태의 데이터에는 잘 적용되기 어려웠다(물론, NLP에 1D convolution을 적용하는 등의 시도가 있기는 했으나, 현재는 transformer에 밀려 자주 사용되지 않고 있다). 다음으로, BERT와 같은 transformer 구조는 input data가 정해진 길이를 가질 것을 요구하며 그 길이의 제곱에 비례해 계산 복잡도가 증가하기 때문에, 오디오 파일이나 이미지와 같이 엄청나게 긴 데이터를 downsampling이나 feature extraction 없이 그대로 받아들이는 것이 어려웠다.
+DeepMind에서 2021년에 발표한 논문으로, 단일 구조로 다양한 modality의 데이터를 학습하고 다룰 수 있는 transformer 기반 모델인 Perceiver를 소개하였다. 기존의 AI의 각 분야에서 좋은 성과를 거둔 CNN과 transformer 기반 아키텍쳐가 다양한 modality를 학습하기 어려웠던 이유로는 크게 두 가지를 들 수 있다. 먼저, CNN의 경우 convolution이라는 연산 자체가 이미지의 형태로 들어오는 input의 spatial relationships를 가정하고 있기 때문에, 이러한 관계가 성립하지 않는 다른 형태의 데이터에는 잘 적용하기 까다로운 경우가 많다. 다음으로, BERT와 같은 transformer 구조는 input data가 정해진 길이를 가질 것을 요구하며 그 길이의 제곱에 비례해 계산 복잡도가 증가하기 때문에, 오디오 파일이나 이미지와 같이 엄청나게 긴 데이터를 downsampling이나 feature extraction 없이 그대로 받아들이는 것이 어려웠다.
 
 ![img Alt]({{ site.baseurl }}/assets/img/perceiver_network.PNG)
 
