@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-이 논문은 얼마 전 메타에서 발표한 것으로, modality(vision, speech, NLP)에 관계 없이 적용 가능한 self-supervised learning mechanism인 Data2Vec을 제시한다. 이를 사용해 각각의 modality의 데이터를 학습시킨 결과, 각 분야에서 SOTA에 준하는 높은 성능을 보여주었다. Data2Vec이 self-supervised learning을 하는 구조는 아래와 같다.
+이 논문은 얼마 전 메타에서 발표한 것으로, modality(vision, speech, language)에 관계 없이 적용 가능한 self-supervised learning mechanism인 Data2Vec을 제시한다. 이를 사용해 각각의 modality의 데이터를 학습시킨 결과, 각 분야에서 SOTA에 준하는 높은 성능을 보여주었다. Data2Vec이 self-supervised learning을 하는 구조는 아래와 같다.
 
 ![img Alt]({{ site.baseurl }}/assets/img/Data2Vec_network.PNG)
 
