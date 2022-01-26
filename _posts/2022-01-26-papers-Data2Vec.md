@@ -16,7 +16,7 @@ Data2Vec은 distillation과 비슷하게, student 모델이 teacher 모델과 �
 
 이러한 방법은 기존에 존재하던 다양한 self-supervised learning mechanism과 큰 차별점을 갖는데, BERT나 self-supervised ViT처럼 출력으로 나오는 discrete한 token을 예측하지 않고, latent network representation을 예측한다는 점이다. 즉, Data2Vec은 continuous하면서도 contextualized된 representation을 학습한다. 이를 통해 Data2Vec은 discrete token이 modality에 따라 다르게 표현되어서 여러 modality의 학습에 동일한 모델을 적용하기 어렵다는 난점을 해결하였고, Data2Vec은 실제로 학습시켰을 때 여러 modality의 task에서 모두 높은 성능을 보였다.
 
-이처럼 Data2Vec은 성능과 범용성 면에서 모두 뛰어난 면을 보여주었기 때문에, 앞으로 이를 활용해 나올 연구들이 기대된다. 특히, Data2Vec은 여전히 modality-specific한 preprocessing이나 feature extraction이 필요하며, 여러 modality를 통합적으로 학습하는 것이 아니라 각각의 modality에 대한 학습이 가능한 것 뿐이라는 한계점을 안고 있다. 전자는 이전에 다룬 Perceiver에서 일부 해결하였고, 후자의 경우는 OpenAI에서 발표한 CLIP 모델에서 text와 vision 정보를 통합적으로 학습시킬 수 있다는 가능성을 보였다. 이러한 접근 방법들을 적절히 융합한다면, 언젠가 **단일 모델이 여러 modality의 정보를 받아들여 통합적으로 representation을 학습하고, 세상의 시각/청각/언어적 측면을 동시에 이해할 수 있는** 인공지능이 등장하게 될지도 모르겠다. 물론 이러한 AI 모델은 여러 현실적인 걸림돌 때문에 아직까지는 상상 속의 이야기지만, 이제는 정말로 구현에 필요한 조각들이 하나하나 실현되고 있는 중이 아닌가 하는 생각이 든다. 이는 학문적, 사회적, 그리고 윤리적인 측면 모두 고려해서 깊게 고민해볼 만한 부분이다.
+이처럼 Data2Vec은 성능과 범용성 면에서 모두 뛰어난 면을 보여주었기 때문에, 앞으로 이를 활용해 나올 연구들이 기대된다. 특히, Data2Vec은 여전히 modality-specific한 preprocessing이나 feature extraction이 필요하며, 여러 modality를 통합적으로 학습하는 것이 아니라 각각의 modality에 대한 학습이 가능한 것 뿐이라는 한계점을 안고 있다. 전자는 이전에 다룬 Perceiver에서 일부 해결하였고, 후자의 경우는 OpenAI에서 발표한 CLIP 모델에서 text와 vision 정보를 통합적으로 학습시킬 수 있다는 가능성을 보였다. 이러한 접근 방법들을 적절히 융합한다면, 언젠가 **단일 모델이 여러 modality의 정보를 받아들여 통합적으로 representation을 학습하고, 세상의 시각/청각/언어적 측면을 동시에 이해할 수 있는** 인공지능이 등장하게 될지도 모르겠다. 물론 이러한 AI 모델은 여러 현실적인 걸림돌 때문에 아직까지는 상상 속의 이야기지만, 이제는 정말로 구현에 필요한 조각들이 하나하나 실현되고 있는 중이 아닌가 하는 생각이 든다. 이는 학문적, 사회적, 그리고 윤리적인 측면들을 모두 고려해서 깊게 고민해볼 만한 부분이다.
 
 
 
