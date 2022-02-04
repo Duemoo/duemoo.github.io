@@ -29,9 +29,9 @@ If you want to contact me, please send me an e-mail: [retapurayo@snu.ac.kr](mail
 
 <br />
 
-- **B.S. in Seoul National University, 2018 - Present**
+- **B.S. in Seoul National University, Mar 2018 - Present**
 
-- **Korea Science Academy of KAIST, 2015 - 2018**
+- **Korea Science Academy of KAIST, Mar 2015 - Feb 2018**
 
 <br />
 
