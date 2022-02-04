@@ -10,7 +10,11 @@ comments: true
 
 현재 분야를 막론하고 가장 활발하게 사용되는 아키텍쳐인 Transformer를 처음으로 제시한 유명한 논문. 사실 예전에 이미 두 번 정도 읽은 적이 있는 논문이지만, 다시 복습하기 위해 읽었다. 처음 개념을 이해할 때에는 참 어렵게 보였는데, 이제는 제법 빠른 속도로 읽으면서 내용을 따라갈 수 있게 되었다.
 
+<br />
+
 ![img Alt]({{ site.baseurl }}/assets/img/transformer_network.png)
+
+<br />
 
 Transformer는 이전까지 NLP 분야에서 가장 많이 사용되던 RNN 기반 아키텍쳐(LSTM, GRU 등)에 고질적으로 존재하던 long-term dependency 문제를 크게 완화했다. 또한, transformer는 모델에 입력되는 토큰을 recursive하게 처리하지 않고 몇 번의 행렬 연산으로 바로 전체 attention score를 계산하기 때문에, 연산이 더 효율적이면서도 gradient가 0으로 수렴하거나 큰 값으로 발산해버리는 기존의 문제도 피해갈 수 있었다. 이러한 장점들로 인해, transformer가 발표된지 이제 5년이 되어가지만, 현재도 NLP 분야에서는 거의 모든 연구가 transformer를 기반 아키텍쳐를 사용해 이뤄지고 있다. 이제는 vision 분야에서도 vision transformer가 많은 관심을 받고 있는 것 같다(조만간 ViT 논문을 다룬 글을 쓸 생각이다).
 
@@ -18,6 +22,6 @@ Transformer는 이전까지 NLP 분야에서 가장 많이 사용되던 RNN 기�
 
 그러나, 의심의 여지 없이 transformer 구조를 사용해 만든 현행 모델들의 성능은 많은 경우 충분할 정도로 정말 강력하다. 그렇기 때문에, transformer는 인공지능을 할 때 반드시 공부해야 하는 구조이며, 앞으로도 꽤 오랫동안은 그럴 것이다. 그런 만큼 앞으로 이와 관련해 다루어야 할 후속 논문들도 엄청나게 많다.
 
-
+<br />
 
 논문 링크 및 이미지 출처: [https://arxiv.org/abs/1706.03762]({{ site.baseurl }}https://arxiv.org/abs/1706.03762)
