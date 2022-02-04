@@ -1,9 +1,9 @@
 ---
 layout: tag-blog
-title: Classic
-slug: classic
+title: Column
+slug: column
 category: music
 menu: false
-order: 2
+order: 1
 header-img: "/img/alpaca.jpg"
 ---

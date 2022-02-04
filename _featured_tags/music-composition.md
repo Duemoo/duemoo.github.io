@@ -4,6 +4,6 @@ title: My compositions
 slug: my_compositions
 category: music
 menu: false
-order: 3
+order: 2
 header-img: "/img/alpaca.jpg"
 ---

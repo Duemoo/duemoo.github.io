@@ -3,7 +3,7 @@ layout: post
 title:  "Chick Corea Trio - Trilogy 2"
 subtitle:   "부제"
 categories: music
-tags: jazz
+tags: column
 comments: true
 
 ---
