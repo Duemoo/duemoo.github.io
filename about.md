@@ -7,7 +7,7 @@ order: 10
 
 <br />
 
-<img style="float: right;" src="{{ site.baseurl }}/assets/img/myimg.jpg" width="250" height="250">
+<img style="float: right;" src="{{ site.baseurl }}/assets/img/myimg.jpg" width="200" height="200">
 
 <br />
 
@@ -16,8 +16,6 @@ order: 10
 ##### *B.S. Student*
 
 ###### *College of Liberal Studies, Seoul Neational University*
-
-<br />
 
 <br />
 
