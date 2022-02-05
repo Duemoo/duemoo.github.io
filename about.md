@@ -5,6 +5,12 @@ menu: true
 order: 10
 ---
 
+<br />
+
+<img style="float: right;" src="{{ site.baseurl }}/assets/img/myimg.jpg" width="250" height="250">
+
+<br />
+
 # Hoyeon Chang
 
 ##### *B.S. Student*
@@ -13,9 +19,7 @@ order: 10
 
 <br />
 
----
-
-
+<br />
 
 I am a B.S. student majoring in Electrical & Computer Engineering, and Biological Sciences at Seoul National University. I am particularly interested in natural language processing and artificial intelligence. My research interests lie in understanding how knowledge representations can be encoded, transferred, and used for inference and reasoning. I believe that these understandings can lead us to achieve multimodality and explainability of AI models, which are crucial for safe and reliable AI.
 
