@@ -12,7 +12,7 @@ comments: true
 
 <br />
 
-![img Alt]({{ site.baseurl }}/assets/img/10_years_solo_live.PNG)
+![img Alt]({{ site.baseurl }}/assets/img/10_years_solo_live.png)
 
 <br />
 
