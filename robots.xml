@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://duemoo.github.io/sitemap.xml
+Sitemap: {{ '/sitemap.xml' | relative_url | prepend: site.url }}
