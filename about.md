@@ -7,7 +7,15 @@ order: 10
 
 <br />
 
-<img style="float: right;" src="{{ site.baseurl }}/assets/img/myimg.jpg" width="200" height="200">
+<img style="float: left;" src="{{ site.baseurl }}/assets/img/myimg.jpg" width="200" height="200">
+
+<br />
+
+<br />
+
+<br />
+
+<br />
 
 <br />
 
