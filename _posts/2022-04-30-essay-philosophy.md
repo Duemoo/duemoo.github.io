@@ -12,7 +12,7 @@ comments: true
 
 <br />
 
-![img Alt]({{ site.baseurl }}/assets/img/philosophy1.JPG)
+![img Alt]({{ site.baseurl }}/assets/img/philosophy1.jpg)
 
 <br />
 
@@ -20,7 +20,7 @@ comments: true
 
 <br />
 
-![img Alt]({{ site.baseurl }}/assets/img/philosophy2.JPG)
+![img Alt]({{ site.baseurl }}/assets/img/philosophy2.jpg)
 
 <br />
 
