@@ -78,7 +78,7 @@ If you want to contact me, please send me an e-mail: [retapurayo@snu.ac.kr](mail
 <br />
 
 - **SNU Undergraduate Research Probram Outstanding Research Award, 2021**
-- **Hyoungae Scholarship, 2019 - Present**
+- **Hyoungae Scholarship, 2019 - 2021**
 - **Zayed Future Energy Prize in global high schools(Asia) category, 2016**
 
 <br />
