@@ -41,6 +41,8 @@ If you want to contact me, please send me an e-mail: [retapurayo@snu.ac.kr](mail
 
 - **B.S. in Seoul National University, Mar 2018 - Present**
 
+  *Double major in Biological Sciences and Electrical & Computer Engineering*
+
 - **Korea Science Academy of KAIST, Mar 2015 - Feb 2018**
 
 <br />
@@ -83,3 +85,14 @@ If you want to contact me, please send me an e-mail: [retapurayo@snu.ac.kr](mail
 
 <br />
 
+---
+
+## Languages
+
+<br />
+
+- **Native in Korean**
+- **Fluent in English and Japanese**
+- **Beginner in German and Spanish**
+
+<br />
