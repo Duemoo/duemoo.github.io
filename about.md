@@ -27,7 +27,7 @@ order: 10
 
 <br />
 
-I am a B.S. student majoring in Electrical & Computer Engineering, and Biological Sciences at Seoul National University. I am particularly interested in natural language processing and artificial intelligence. My research interests lie in understanding how knowledge representations can be encoded, transferred, and used for inference and reasoning. I believe that these understandings can lead us to achieve multimodality and explainability of AI models, which are crucial for safe and reliable AI.
+I am a B.S. student majoring in Electrical & Computer Engineering, and Biological Sciences at Seoul National University. I am particularly interested in natural language processing and neuro-symbolic AI. My research interests lie in understanding how knowledge representations can be encoded, transferred, and used for inference and reasoning. I believe that these understandings can lead us to achieve multimodality and explainability of AI models, which are crucial for safe and reliable AI.
 
 If you want to contact me, please send me an e-mail: [retapurayo@snu.ac.kr](mailto:retapurayo@snu.ac.kr)
 
@@ -39,7 +39,7 @@ If you want to contact me, please send me an e-mail: [retapurayo@snu.ac.kr](mail
 
 <br />
 
-- **B.S. in Seoul National University, Mar 2018 - Present**
+- **B.S. in Seoul National University, Mar 2018 - Aug 2022**
 
   *Double major in Biological Sciences and Electrical & Computer Engineering*
 
