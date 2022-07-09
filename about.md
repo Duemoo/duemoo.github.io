@@ -53,7 +53,7 @@ You can contact me via e-mail: [retapurayo@snu.ac.kr](mailto:retapurayo@snu.ac.k
 
 <br />
 
-- **Research Intern at KAIST [LK Lab](https://lklab.kaist.ac.kr/), Feb 2022 - Present (Advisor: [Minjoon Seo]())**
+- **Research Intern at KAIST [LK Lab](https://lklab.kaist.ac.kr/), Feb 2022 - Present (Advisor: [Minjoon Seo](https://seominjoon.github.io/))**
 
 - **Research Intern at SNU [LDI Lab](https://seungwonh.github.io/ldi.html), Sep 2021 - Jan 2022 (Advisor: [Seungwon Hwang](https://seungwonh.github.io/))**
 
