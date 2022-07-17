@@ -29,7 +29,7 @@ order: 10
 
 I am a B.S. student majoring in Electrical & Computer Engineering, and Biological Sciences at Seoul National University. I am particularly interested in natural language processing and neuro-symbolic AI. My research interests lie in understanding how knowledge representations can be encoded, transferred, and used for inference and reasoning. I believe that these understandings can lead us to achieve multimodality and explainability of AI models, which are crucial for safe and reliable AI.
 
-If you want to contact me, please send me an e-mail: [retapurayo@snu.ac.kr](mailto:retapurayo@snu.ac.kr)
+You can contact me via e-mail: [retapurayo@snu.ac.kr](mailto:retapurayo@snu.ac.kr)
 
 <br />
 
@@ -53,7 +53,7 @@ If you want to contact me, please send me an e-mail: [retapurayo@snu.ac.kr](mail
 
 <br />
 
-- **Research Intern at KAIST [LK Lab](https://lklab.kaist.ac.kr/), Feb 2022 - Present (Advisor: [Minjoon Seo]())**
+- **Research Intern at KAIST [LK Lab](https://lklab.kaist.ac.kr/), Feb 2022 - Present (Advisor: [Minjoon Seo](https://seominjoon.github.io/))**
 
 - **Research Intern at SNU [LDI Lab](https://seungwonh.github.io/ldi.html), Sep 2021 - Jan 2022 (Advisor: [Seungwon Hwang](https://seungwonh.github.io/))**
 
