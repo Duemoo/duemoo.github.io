@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-[지난번에 다룬 Perceiver]({{ site.baseurl }}/ai/2022/01/24/papers-perceiver/)의 후속 논문으로. Perceiver의 경우 임의의 modality와 길이를 갖는 데이터를 최소한의 inductive bias를 사용해 처리할 수 있었으나,  classification과 같이 output space가 단순한 형태를 갖는 task에만 활용될 수 있다는 한계점이 있었다. Perceiver IO는 기존 Perceiver의 구조를 약간 수정하여, output 또한 임의의 modality와 기이를 가질 수 있도록 설계하였다. 이에 따라 Perceiver IO는 natural language, visual understanding, StarCraft II 등의 다양한 task를 수행할 수 있게 되었을 뿐만 아니라 이들 모두에서 높은 성능을 보였고, 특히 Sintel optical flow estimation에서 SOTA를 달성하였다.
+[지난번에 다룬 Perceiver]({{ site.baseurl }}/ai/2022/01/24/papers-perceiver/)의 후속 논문으로. Perceiver의 경우 임의의 modality와 길이를 갖는 데이터를 최소한의 inductive bias를 사용해 처리할 수 있었으나,  classification과 같이 output space가 단순한 형태를 갖는 task에만 활용될 수 있다는 한계점이 있었다. Perceiver IO는 기존 Perceiver의 구조를 약간 수정하여, output 또한 임의의 modality와 길이를 가질 수 있도록 설계하였다. 이에 따라 Perceiver IO는 natural language, visual understanding, StarCraft II 등의 다양한 task를 수행할 수 있게 되었을 뿐만 아니라 이들 모두에서 높은 성능을 보였고, 특히 Sintel optical flow estimation에서 SOTA를 달성하였다.
 
 <br />
 
