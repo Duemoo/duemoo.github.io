@@ -21,15 +21,17 @@ order: 10
 
 # Hoyeon Chang
 
-##### *B.S. Student*
+##### *M.S. Student*
 
-###### *College of Liberal Studies, Seoul Neational University*
+###### *Graduate School of AI, KAIST*
 
 <br />
 
-I am a B.S. student majoring in Electrical & Computer Engineering, and Biological Sciences at Seoul National University. I am particularly interested in natural language processing and neuro-symbolic AI. My research interests lie in understanding how knowledge representations can be encoded, transferred, and used for inference and reasoning. I believe that these understandings can lead us to achieve multimodality and explainability of AI models, which are crucial for safe and reliable AI.
+Hello, I am a first year M.S. student in [Language & Knowledge Lab](https://lklab.kaist.ac.kr/) at KAIST Graduate school of AI. I am fortunate to be advised by [Minjoon Seo](https://seominjoon.github.io/). Prior to KAIST, I obtained B.S. in Electrical & Computer Engineering, and Biological Sciences at Seoul National University.
 
-You can contact me via e-mail: [retapurayo@snu.ac.kr](mailto:retapurayo@snu.ac.kr)
+My research interests lie in natural language processing and neuro-symbolic AI. I'm interested in understanding how knowledge representations can be encoded, transferred, and used for inference and reasoning. I believe that these understandings can lead us to achieve multimodality and explainability of AI models, which are crucial for safe and reliable AI.
+
+You can contact me via e-mail: [retapurayo@kaist.ac.kr](mailto:retapurayo@kaist.ac.kr)
 
 <br />
 
@@ -39,9 +41,13 @@ You can contact me via e-mail: [retapurayo@snu.ac.kr](mailto:retapurayo@snu.ac.k
 
 <br />
 
-- **B.S. in Seoul National University, Mar 2018 - Aug 2022**
+- **Korea Advanced Institute of Science and Technology,  Sep 2022 - Present**
 
-  *Double major in Biological Sciences and Electrical & Computer Engineering*
+  *M.S. in Artificial Intelligence*
+
+- **Seoul National University, Mar 2018 - Aug 2022**
+
+  *B.S. in Biological Sciences and Electrical & Computer Engineering*
 
 - **Korea Science Academy of KAIST, Mar 2015 - Feb 2018**
 
@@ -53,7 +59,7 @@ You can contact me via e-mail: [retapurayo@snu.ac.kr](mailto:retapurayo@snu.ac.k
 
 <br />
 
-- **Research Intern at KAIST [LK Lab](https://lklab.kaist.ac.kr/), Feb 2022 - Present (Advisor: [Minjoon Seo](https://seominjoon.github.io/))**
+- **Research Intern at KAIST [LK Lab](https://lklab.kaist.ac.kr/), Feb 2022 - Aug 2022 (Advisor: [Minjoon Seo](https://seominjoon.github.io/))**
 
 - **Research Intern at SNU [LDI Lab](https://seungwonh.github.io/ldi.html), Sep 2021 - Jan 2022 (Advisor: [Seungwon Hwang](https://seungwonh.github.io/))**
 
