@@ -98,7 +98,7 @@ You can contact me via e-mail: [retapurayo@kaist.ac.kr](mailto:retapurayo@kaist.
 <br />
 
 - **Native in Korean**
-- **Fluent in English and Japanese**
+- **Fluent in English(TOEIC 925/990) and Japanese(JLPT N1 164/180)**
 - **Beginner in German and Spanish**
 
 <br />
