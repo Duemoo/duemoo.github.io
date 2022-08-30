@@ -43,11 +43,11 @@ You can contact me via e-mail: [retapurayo@kaist.ac.kr](mailto:retapurayo@kaist.
 
 - **Korea Advanced Institute of Science and Technology,  Sep 2022 - Present**
 
-  *M.S. in Artificial Intelligence*
+  M.S. in Artificial Intelligence
 
 - **Seoul National University, Mar 2018 - Aug 2022**
 
-  *B.S. in Biological Sciences and Electrical & Computer Engineering*
+  B.S. in Biological Sciences and Electrical & Computer Engineering, *Summa cum laude*
 
 - **Korea Science Academy of KAIST, Mar 2015 - Feb 2018**
 
