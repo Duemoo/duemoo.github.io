@@ -75,7 +75,13 @@ You can contact me via e-mail: [retapurayo@kaist.ac.kr](mailto:retapurayo@kaist.
 
 <br />
 
-#### To be filled!
+### **2022**
+
+- **[Contextualized Generative Retrieval](https://arxiv.org/abs/2210.02068)**, *Preprint Under Review*
+
+  Hyunji Lee, Jaeyoung Kim, **Hoyeon Chang**, Hanseok Oh, Sohee Yang, Vlad Karpukhin, Yi Lu, Minjoon Seo
+
+  
 
 <br />
 
