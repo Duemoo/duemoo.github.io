@@ -91,7 +91,7 @@ You can contact me via e-mail: [retapurayo@kaist.ac.kr](mailto:retapurayo@kaist.
 
 <br />
 
-- **SNU Undergraduate Research Probram Outstanding Research Award, 2021**
+- **SNU Undergraduate Research Program Outstanding Research Award, 2021**
 - **Hyoungae Scholarship, 2019 - 2021**
 - **Zayed Future Energy Prize in global high schools(Asia) category, 2016**
 
