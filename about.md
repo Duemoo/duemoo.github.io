@@ -77,7 +77,7 @@ You can contact me via e-mail: [retapurayo@kaist.ac.kr](mailto:retapurayo@kaist.
 
 ### **2022**
 
-- **[Contextualized Generative Retrieval](https://arxiv.org/abs/2210.02068)**, *Preprint Under Review*
+- **[Nonparametric Decoding for Generative Retrieval](https://arxiv.org/abs/2210.02068)**, *ACL 2023 Findings*
 
   Hyunji Lee, Jaeyoung Kim, **Hoyeon Chang**, Hanseok Oh, Sohee Yang, Vlad Karpukhin, Yi Lu, Minjoon Seo
 
