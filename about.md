@@ -29,7 +29,7 @@ order: 10
 
 Hello, I am a first year M.S. student in [Language & Knowledge Lab](https://lklab.kaist.ac.kr/) at KAIST Graduate school of AI. I am fortunate to be advised by [Minjoon Seo](https://seominjoon.github.io/). Prior to KAIST, I obtained B.S. in Electrical & Computer Engineering, and Biological Sciences at Seoul National University.
 
-My research interests lie in natural language processing and neuro-symbolic AI. I'm interested in understanding how knowledge representations can be encoded, transferred, and used for inference and reasoning. I believe that these understandings can lead us to achieve multimodality and explainability of AI models, which are crucial for safe and reliable AI.
+My research interests lie in natural language processing and neuro-symbolic AI. My focus lies in exploring how knowledge representations can be encoded, transferred, and utilized for inference and reasoning. I firmly believe that gaining such insights can pave the way towards achieving multimodality and explainability in AI models, which are essential for ensuring their safety and reliability.
 
 You can contact me via e-mail: [retapurayo@kaist.ac.kr](mailto:retapurayo@kaist.ac.kr)
 
