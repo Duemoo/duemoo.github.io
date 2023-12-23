@@ -21,15 +21,17 @@ order: 10
 
 # Hoyeon Chang
 
-##### *M.S. Student*
+
+
+##### *Ph.D. Student*
 
 ###### *Graduate School of AI, KAIST*
 
 <br />
 
-Hello, I am a first year M.S. student in [Language & Knowledge Lab](https://lklab.kaist.ac.kr/) at KAIST Graduate school of AI. I am fortunate to be advised by [Minjoon Seo](https://seominjoon.github.io/). Prior to KAIST, I obtained B.S. in Electrical & Computer Engineering, and Biological Sciences at Seoul National University.
+Hello, I am an incoming Ph.D. student in [Language & Knowledge Lab](https://lklab.kaist.ac.kr/) at KAIST Graduate school of AI. I am fortunate to be advised by [Minjoon Seo](https://seominjoon.github.io/). Prior to KAIST, I obtained B.S. in Electrical & Computer Engineering, and Biological Sciences at Seoul National University.
 
-My research interests lie in natural language processing and neuro-symbolic AI. My focus lies in exploring how knowledge representations can be encoded, transferred, and utilized for inference and reasoning. I believe that gaining such insights can pave the way towards achieving multimodality and explainability in AI models, which are essential for ensuring their safety and reliability.
+My research interests lie in natural language processing and neuro-symbolic AI. My focus lies in exploring how knowledge representations can be encoded, transferred, and utilized for inference and reasoning in AI models. I believe that gaining such insights can pave the way towards building more safe and reliable AI systems.
 
 You can contact me via e-mail: [retapurayo@kaist.ac.kr](mailto:retapurayo@kaist.ac.kr)
 
@@ -41,7 +43,11 @@ You can contact me via e-mail: [retapurayo@kaist.ac.kr](mailto:retapurayo@kaist.
 
 <br />
 
-- **Korea Advanced Institute of Science and Technology,  Sep 2022 - Present**
+- **Korea Advanced Institute of Science and Technology,  Feb 2024 - Present**
+
+  Ph.D. in Artificial Intelligence
+
+- **Korea Advanced Institute of Science and Technology,  Sep 2022 - Feb 2024**
 
   M.S. in Artificial Intelligence
 

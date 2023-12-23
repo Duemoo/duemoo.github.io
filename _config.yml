@@ -18,12 +18,12 @@ tagline:             "Home"
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  AI와 음악을 사랑하는 인공지능학도 겸 작곡가 겸 아마추어 재즈피아니스트의 블로그
+  AI와 음악을 사랑하는 인공지능학도 겸 작곡가 겸 재즈피아니스트
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
   name:             Hoyeon Chang
-  email:             retapurayo@snu.ac.kr
+  email:             retapurayo@kaist.ac.kr
 
 # Fallback image and color
 image:              '/assets/img/me.jpg'
@@ -102,14 +102,7 @@ gems:
   - jekyll-paginate
   - jekyll-redirect-from
 
-exclude:
-  - README.md
-  - LICENSE.md
-  - node_modules
-  - package.json
-  - package-lock.json
-  - Gemfile
-  - Gemfile.lock
+exclude: [vendor]
 
 kramdown:
   footnote_backlink: '&#x21a9;&#xfe0e;'
