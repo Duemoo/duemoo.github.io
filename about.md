@@ -19,7 +19,9 @@ order: 10
 
 <br />
 
-# Hoyeon Chang
+# Hoyeon Chang 
+
+Pronunciation: [hojʌn tɕɑŋ]
 
 
 
@@ -29,9 +31,9 @@ order: 10
 
 <br />
 
-Hello, I am an incoming Ph.D. student in [Language & Knowledge Lab](https://lklab.kaist.ac.kr/) at KAIST Graduate school of AI. I am fortunate to be advised by [Minjoon Seo](https://seominjoon.github.io/). Prior to KAIST, I obtained B.S. in Electrical & Computer Engineering, and Biological Sciences at Seoul National University.
+Hello, I am a Ph.D. student in [Language & Knowledge Lab](https://lklab.kaist.ac.kr/) at KAIST Graduate School of AI. I am fortunate to be advised by [Minjoon Seo](https://seominjoon.github.io/). Before KAIST, I obtained a B.S. in Electrical & Computer Engineering, and Biological Sciences at Seoul National University.
 
-My research interests lie in natural language processing and neuro-symbolic AI. My focus lies in exploring how knowledge representations can be encoded, transferred, and utilized for inference and reasoning in AI models. I believe that gaining such insights can pave the way towards building more safe and reliable AI systems.
+My research interests lie in natural language processing and neuro-symbolic AI. My focus lies in exploring how knowledge representations can be encoded, transferred, and utilized for inference and reasoning in AI models. I believe that gaining such insights can pave the way toward building more safe and reliable AI systems.
 
 You can contact me via e-mail: [retapurayo@kaist.ac.kr](mailto:retapurayo@kaist.ac.kr)
 
