@@ -85,7 +85,7 @@ You can contact me via e-mail: [retapurayo@kaist.ac.kr](mailto:retapurayo@kaist.
 
 <br />
 
-### **2022**
+### **2023**
 
 - **[Nonparametric Decoding for Generative Retrieval](https://arxiv.org/abs/2210.02068)**, *ACL 2023 Findings*
 
