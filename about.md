@@ -85,6 +85,12 @@ You can contact me via e-mail: [retapurayo@kaist.ac.kr](mailto:retapurayo@kaist.
 
 <br />
 
+### **2024**
+
+- **[How Do Large Language Models Acquire Factual Knowledge During Pretraining?](https://arxiv.org/abs/2406.11813)**, *arXiv Preprint*
+
+  **Hoyeon Chang**, Jinho Park, Seonghyeon Ye, Sohee Yang, Youngkyung Seo, Du-Seong Chang, Minjoon Seo
+
 ### **2023**
 
 - **[Nonparametric Decoding for Generative Retrieval](https://arxiv.org/abs/2210.02068)**, *ACL 2023 Findings*
