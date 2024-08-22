@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hoyeon Chang - Anthropology (Piano Solo)"
+title:  "Hoyeon Chang - Anthropology (Solo Piano)"
 subtitle:   "부제"
 categories: music
 tags: my_performances
