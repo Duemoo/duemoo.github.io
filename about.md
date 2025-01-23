@@ -85,15 +85,17 @@ You can contact me via e-mail: [retapurayo@kaist.ac.kr](mailto:retapurayo@kaist.
 
 <br />
 
+### **2025**
+
+- [**How Does Vision-Language Adaptation Impact the Safety of Vision Language Models?**](https://arxiv.org/abs/2410.07571), *ICLR 2025*
+
+  Seongyun Lee, Geewook Kim, Jiyeon Kim, Hyunji Lee, **Hoyeon Chang**, Sue Hyun Park, and Minjoon Seo
+
 ### **2024**
 
 - **[How Do Large Language Models Acquire Factual Knowledge During Pretraining?](https://arxiv.org/abs/2406.11813)**, *NeurIPS 2024*
 
   **Hoyeon Chang**, Jinho Park, Seonghyeon Ye, Sohee Yang, Youngkyung Seo, Du-Seong Chang, Minjoon Seo
-  
-- [**How Does Vision-Language Adaptation Impact the Safety of Vision Language Models?**](https://arxiv.org/abs/2410.07571), *arXiv preprint*
-
-  Seongyun Lee, Geewook Kim, Jiyeon Kim, Hyunji Lee, **Hoyeon Chang**, Sue Hyun Park, and Minjoon Seo
 
 ### **2023**
 
