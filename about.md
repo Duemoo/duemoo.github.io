@@ -90,6 +90,7 @@ You can contact me via e-mail: [retapurayo@kaist.ac.kr](mailto:retapurayo@kaist.
 ### 2025
 
 - [**How Does Vision-Language Adaptation Impact the Safety of Vision Language Models?**](https://arxiv.org/abs/2410.07571), *ICLR 2025*
+
   Seongyun Lee, Geewook Kim, Jiyeon Kim, Hyunji Lee, **Hoyeon Chang**, Sue Hyun Park, and Minjoon Seo
 
 ### **2024**
