@@ -89,9 +89,17 @@ You can contact me via e-mail: [retapurayo@kaist.ac.kr](mailto:retapurayo@kaist.
 
 ### 2025
 
+- [**The Coverage Principle: A Framework for Understanding Compositional Generalization**](https://arxiv.org/abs/2505.20278), *ArXiv Preprint* 
+
+  **Hoyeon Chang**\*, Jinho Park\*, Hanseul Cho, Sohee Yang, Miyoung Ko, Hyeonbin Hwang, Seungpil Won, Dohaeng Lee, Youbin Ahn, Minjoon Seo
+  
+- [**Let's Predict Sentence by Sentence**](https://arxiv.org/abs/2505.22202), *ArXiv Preprint* 
+
+  Hyeonbin Hwang\*, Byeongguk Jeon\*, Seungone Kim, Jiyeon Kim, **Hoyeon Chang**, Sohee Yang, Seungpil Won, Dohaeng Lee, Youbin Ahn, Minjoon Seo
+  
 - [**How Does Vision-Language Adaptation Impact the Safety of Vision Language Models?**](https://arxiv.org/abs/2410.07571), *ICLR 2025*
 
-  Seongyun Lee, Geewook Kim, Jiyeon Kim, Hyunji Lee, **Hoyeon Chang**, Sue Hyun Park, and Minjoon Seo
+  Seongyun Lee\*, Geewook Kim\*, Jiyeon Kim\*, Hyunji Lee, **Hoyeon Chang**, Sue Hyun Park, and Minjoon Seo
 
 ### **2024**
 
@@ -142,6 +150,7 @@ You can contact me via e-mail: [retapurayo@kaist.ac.kr](mailto:retapurayo@kaist.
 <br />
 
 - **How do Language Models Acquire and Utilize Factual Knowledge?** at NAVER Labs, Feb 2024
+- **How do Language Models Acquire and Utilize Factual Knowledge?** at NAVER CLOVA, May 2024
 
 <br />
 
